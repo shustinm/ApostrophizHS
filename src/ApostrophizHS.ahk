@@ -63,6 +63,7 @@ HI -> HELLO
 ::anubarak::Anub'arak
 ::cthun::C'Thun
 ::ctu::C'Thun
+::cth::C'Thun
 ::chogall::Cho'gall
 ::gahzrilla::Gahz'rilla
 ::kelthuzad::Kel'Thuzad
@@ -75,15 +76,14 @@ HI -> HELLO
 ::yshaarj::Y'Shaarj
 ::ysh::Y'shaarj
 ::yoggsaron::Yogg-Saron
-::alextraza::Alextrasza
+::alextraza::Alexstrasza
+::alexstraza::Alexstrasza
+::alextrasza::Alexstrasza
 ::amgam::Am'gam
 ::korkron::Kor'kron
 ::mogushan::Mogu'shan
-::nerubar::nerub'ar
+::nerubar::Nerub'ar
 ::bgh::Big Game Hunter
 ::tbk::The Black Knight
 ::dr7::Dr. Boom
-
-; Set Suspend and Reload hotkeys.
-Pause::Suspend
-^+r::Reload
+::rafam::Rafaam
